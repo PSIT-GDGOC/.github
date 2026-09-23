@@ -91,7 +91,7 @@ A full `CONTRIBUTING.md` with detailed guidelines will be added alongside the fi
 
 ## 📬 Stay Connected
 
-- 🌐 GDGoC Community: [gdg.community.dev](https://gdg.community.dev/)
+- 🌐 GDGoC PSIT Community: [gdg.community.dev]([https://gdg.community.dev/](https://gdg.community.dev/gdg-on-campus-pranveer-singh-institute-of-technology-kanpur-india/))
 - 🏫 PSIT Chapter updates: *link coming soon*
 
 ---
