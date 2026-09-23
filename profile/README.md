@@ -31,7 +31,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-4285F4?style=flat-square" width="14"> About
+## 🔵 About
 
 **GDGoC PSIT** (Google Developer Groups on Campus, PSIT) is a student-led tech community where we learn from each other, build real things, and get comfortable shipping code in the open.
 
@@ -39,7 +39,7 @@ This repository is our shared home base — where our projects, tasks, and contr
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-EA4335?style=flat-square" width="14"> What is Open Source?
+## 🔴 What is Open Source?
 
 If you're new to this — **open source** simply means the code is public, and anyone can read it, use it, improve it, and contribute back to it.
 
@@ -75,7 +75,7 @@ This repo is where we practice exactly that, as a team.
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-FBBC05?style=flat-square" width="14"> Current Status
+## 🟡 Current Status
 
 We're just getting set up! 🛠️
 
@@ -92,7 +92,7 @@ Project tasks and issues will be posted here shortly. Once they're up, this READ
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-34A853?style=flat-square" width="14"> How Tasks Will Work
+## 🟢 How Tasks Will Work
 
 Once issued, tasks will follow this flow:
 
@@ -117,7 +117,7 @@ so you can pick what suits your comfort level.
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-4285F4?style=flat-square" width="14"> Contributing
+## 🔵 Contributing
 
 We welcome contributions from all members, regardless of experience level.
 
@@ -130,13 +130,13 @@ A full `CONTRIBUTING.md` with detailed guidelines will be added alongside the fi
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-EA4335?style=flat-square" width="14"> Team
+## 🔴 Team
 
 *Team & contributor list coming soon.*
 
 <br>
 
-## <img src="https://img.shields.io/badge/-●-FBBC05?style=flat-square" width="14"> Stay Connected
+## 🟡 Stay Connected
 
 - 🌐 GDGoC Community: [gdg.community.dev](https://gdg.community.dev/)
 - 🏫 PSIT Chapter updates: *link coming soon*
