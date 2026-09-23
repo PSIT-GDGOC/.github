@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gdgoc-logo.png" width="140" alt="GDGoC Logo">
+<img src="gdgoc-logo.png" width="140" alt="GDGoC Logo">
 
 # GDGoC PSIT
 
