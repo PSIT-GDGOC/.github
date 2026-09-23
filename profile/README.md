@@ -147,7 +147,7 @@ A full `CONTRIBUTING.md` with detailed guidelines will be added alongside the fi
 
 <div align="center">
 
-<img src="assets/gdgoc-logo.png" width="60" alt="GDGoC Logo">
+<img src="gdgoc-logo.png" width="60" alt="GDGoC Logo">
 
 **Made with 💙 by GDGoC PSIT**
 
